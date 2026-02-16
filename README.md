@@ -1,5 +1,7 @@
-<h1>1° exercício do
-curso de HTML5 e CSS3.</h1>
+1° exercício do
+curso de HTML5 e CSS3
+
+ex001
 
  [index.html](https://github.com/user-attachments/files/25333312/index.html)
 
